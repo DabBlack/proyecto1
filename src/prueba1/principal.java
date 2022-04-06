@@ -3,6 +3,6 @@ package prueba1;
 public class principal {
 
 	public static void main(String[] args) {
-		System.out.println("Hola Mundo");
+		System.out.println("Hola Mundo, modificacion 1");
 	}
 }
